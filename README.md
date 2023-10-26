@@ -1,3 +1,6 @@
+![image](https://github.com/F-Andersen/MERN-Long-living-branches-Github-flow-/assets/60739447/1f1240f4-2b99-4095-8c11-4840a15d7d1c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
